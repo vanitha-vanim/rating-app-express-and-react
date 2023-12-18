@@ -1,4 +1,4 @@
-# rating-app-express-and-react - vanitha maheshwarn. 
+# rating-app-express-and-react - vanitha.m. 
 Setup Instructions
 
 Frontend (React.js App):
